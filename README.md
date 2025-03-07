@@ -1,2 +1,0 @@
-# InspireNames
-generador de nombres
